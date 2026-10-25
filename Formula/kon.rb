@@ -1,8 +1,8 @@
 class Kon < Formula
   desc "One command to reach a private EKS cluster or RDS database over SSM"
   homepage "https://github.com/tibatko509/kon"
-  url "https://github.com/tibatko509/kon/archive/refs/tags/v1.7.1.tar.gz"
-  sha256 "ab537d9492b6d3e503e092609170a8dca6874ce73cf331a2a2ac45917fec3d2f"
+  url "https://github.com/tibatko509/kon/archive/refs/tags/v1.8.0.tar.gz"
+  sha256 "8e2b7ae531dfed4469d66fd7bbda6a5a4244cbd82c96db3511940498fd9cc45c"
   license "MIT"
 
   depends_on "fzf"
